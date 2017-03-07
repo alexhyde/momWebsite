@@ -1,0 +1,21 @@
+{
+  "name": "momwebsite",
+  "description": "Moms Website",
+  "main": "app.js",
+  "authors": [
+    "Alex Hyde"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alexhyde/momWebsite",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "components-font-awesome": "^4.7.0"
+  }
+}

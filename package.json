@@ -1,0 +1,24 @@
+{
+  "name": "momwebsite",
+  "version": "1.0.0",
+  "description": "Moms Website",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexhyde/momWebsite.git"
+  },
+  "author": "Alex Hyde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexhyde/momWebsite/issues"
+  },
+  "homepage": "https://github.com/alexhyde/momWebsite#readme"
+}
